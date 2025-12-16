@@ -10,3 +10,6 @@ Rain Drop live wallpaper from here:
 	you have to install up todown enable unknown sources and then relaunch the up to down app store and search for rain drop use the one that has the same icon as the link above,  once rain drop is installed you cannot set a custom background until you click customize and scroll down to select the CUSTOM PHOTO checkbox, once selected under it you can click load custom photo
 
 	again open apk info from play store search live wallpaper more info enable then set the wallpaper using the rain drop app, once done delete apk info and delete up to down app store!
+
+
+p.s. I dont know how to get custom wallpaper on nexus revamped as we cannot install the pro version from google play, I just use color backgrounds <3
